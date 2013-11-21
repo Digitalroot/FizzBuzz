@@ -1,12 +1,9 @@
 <?php
 
-  /* By: Digitalroot */
-
   for ($i = 1; $i <= 100; $i++)
   {
     echo output($i) . "\n";
   }
-  
   
   function output($i)
   {
