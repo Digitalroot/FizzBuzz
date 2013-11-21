@@ -1,5 +1,7 @@
 <?php
 
+  /* Digitalroot 2012 */
+
   for ($i = 1; $i <= 100; $i++)
   {
     echo output($i) . "\n";
